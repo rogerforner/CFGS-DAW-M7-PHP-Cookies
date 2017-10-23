@@ -7,7 +7,7 @@
   <title>Document</title>
 </head>
 <body>
-  <?php include("includes/formulario.php"); ?>
-  <?php include("includes/contenido.php"); ?>
+  <?php include_once("includes/formulario.php"); ?>
+  <?php include_once("includes/contenido.php"); ?>
 </body>
 </html>
